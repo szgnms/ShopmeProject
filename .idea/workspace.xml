@@ -5,41 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e693a5e-b91a-4b63-8234-2ab420188711" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ShopmeCommon/src/main/java/com/shopme/common/entity/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeCommon/src/main/java/com/shopme/common/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/java/com/shopme/admin/FileUploadUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/java/com/shopme/admin/security/WebSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/java/com/shopme/admin/user/RoleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/java/com/shopme/admin/user/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/java/com/shopme/admin/user/UserNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/java/com/shopme/admin/user/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/java/com/shopme/admin/user/UserRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/java/com/shopme/admin/user/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/resources/static/fontawesome/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/resources/static/images/defUser.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/resources/static/images/defUser.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/resources/static/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/resources/static/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/resources/static/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/resources/static/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/resources/static/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/resources/static/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/resources/static/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/resources/static/webfonts/fa-v4compatibility.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/resources/static/webfonts/fa-v4compatibility.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/resources/templates/user_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/resources/templates/users.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/test/java/com/shopme/admin/user/PasswordEncoderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/test/java/com/shopme/admin/user/RoleRepositoryTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/test/java/com/shopme/admin/user/UserRepositoryTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/java/com/shopme/admin/MvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-photos/1/namhm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-photos/10/Frederick Santos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-photos/11/Anna Maria.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-photos/12/Satya Narayana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-photos/13/Matthew.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-photos/14/Dave Kumar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-photos/15/Jack Bruce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-photos/16/Mohamed Zirri.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-photos/17/Mithun Kumar Majumdar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-photos/18/Ali Raza.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-photos/19/Isaac Henry.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-photos/2/Allada Pavan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-photos/20/Svetlana Stasovska.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-photos/21/Mike Gates.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-photos/22/Pedro Quintero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-photos/23/Amina Elshal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-photos/3/Bruce Kitchell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-photos/4/Muhammad Evran.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-photos/5/KentHervey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-photos/6/Alfred.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-photos/7/Nathi_Sangweni.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-photos/8/Ammanolla.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-photos/9/Bill Feeny.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShopmeCommon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/java/com/shopme/admin/ShopmeBackEndApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/java/com/shopme/admin/ShopmeBackEndApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShopmeWebParent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeWebParent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeCommon/src/main/java/com/shopme/common/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeCommon/src/main/java/com/shopme/common/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/java/com/shopme/admin/FileUploadUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/java/com/shopme/admin/FileUploadUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/java/com/shopme/admin/user/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/java/com/shopme/admin/user/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/java/com/shopme/admin/user/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/java/com/shopme/admin/user/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/java/com/shopme/admin/user/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/java/com/shopme/admin/user/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/resources/templates/user_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/resources/templates/user_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/resources/templates/users.html" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/main/resources/templates/users.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/test/java/com/shopme/admin/user/UserRepositoryTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd/src/test/java/com/shopme/admin/user/UserRepositoryTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-photos/41U94POyYWL._AC_SX466_.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +89,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/ms/Documents/GitHub/ShopmeProject/ShopmeWebParent/ShopmeBackEnd/src/main/resources/static/images",
+    "last_opened_file_path": "C:/Users/ms/Documents/GitHub/ShopmeProject/user-photos",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -98,11 +98,11 @@
       <recent name="com.shopme.admin.user" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ms\Documents\GitHub\ShopmeProject\user-photos" />
       <recent name="C:\Users\ms\Documents\GitHub\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\main\resources\static\images" />
       <recent name="C:\Users\ms\Documents\GitHub\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\main\resources\static\fontawesome" />
       <recent name="C:\Users\ms\Documents\GitHub\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\main\resources\static" />
       <recent name="C:\Users\ms\Documents\GitHub\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\main\resources\static\images\fontawsome" />
-      <recent name="C:\Users\ms\Documents\GitHub\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\main\resources\templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ms\Documents\GitHub\ShopmeProject\ShopmeWebParent\ShopmeBackEnd\src\main\resources\static\images" />
@@ -181,7 +181,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserRepositoryTests.testFindUserByEmail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UserRepositoryTests.testListFirstPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ShopmeBackEnd" />
       <extension name="coverage">
         <pattern>
@@ -191,7 +191,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.shopme.admin.user" />
       <option name="MAIN_CLASS_NAME" value="com.shopme.admin.user.UserRepositoryTests" />
-      <option name="METHOD_NAME" value="testFindUserByEmail" />
+      <option name="METHOD_NAME" value="testListFirstPage" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -200,10 +200,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.ShopmeBackEndApplication" />
+        <item itemvalue="JUnit.UserRepositoryTests.testListFirstPage" />
         <item itemvalue="JUnit.UserRepositoryTests.testDisableUser" />
         <item itemvalue="JUnit.UserRepositoryTests.testCountById" />
         <item itemvalue="JUnit.PasswordEncoderTest.testEncodePassword" />
-        <item itemvalue="JUnit.UserRepositoryTests.testFindUserByEmail" />
       </list>
     </recent_temporary>
   </component>

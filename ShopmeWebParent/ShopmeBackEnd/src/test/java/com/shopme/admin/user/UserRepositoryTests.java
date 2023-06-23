@@ -8,11 +8,16 @@ import org.springframework.boot.test.autoconfigure.jdbc.AutoConfigureTestDatabas
 import org.springframework.boot.test.autoconfigure.jdbc.AutoConfigureTestDatabase.Replace;
 import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
 import org.springframework.boot.test.autoconfigure.orm.jpa.TestEntityManager;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.PageRequest;
+import org.springframework.data.domain.Pageable;
 import org.springframework.test.annotation.Rollback;
+
+import java.util.List;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@DataJpaTest
+@DataJpaTest(showSql = false)
 @AutoConfigureTestDatabase(replace = Replace.NONE)
 @Rollback(false)
 public class UserRepositoryTests {
@@ -110,6 +115,21 @@ public class UserRepositoryTests {
         User user =repo.findById(39).get();
 
         user.setEnabled(true);
+
+    }
+
+    @Test
+    public void testListFirstPage() {
+        int pageNumber =2;
+        int pageSize =4;
+        Pageable pageable = PageRequest.of(pageNumber, pageSize);
+        Page<User> page=repo.findAll(pageable);
+
+        List<User> users =page.getContent();
+        users.forEach(System.out::println);
+
+        assertThat(page.getTotalElements()).isGreaterThan(0);
+        assertThat(users.size()).isEqualTo(pageSize);
 
     }
 
